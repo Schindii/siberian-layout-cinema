@@ -1,0 +1,12 @@
+{
+  "name": "LayoutCinema",
+  "description": "Homepage Layout created by Siberiancms",
+  "type": "layout",
+  "version": "4.0.0.",
+  "dependencies": {
+    "system": {
+      "type": "SAE",
+      "version": "4.12.23"
+    }
+  }
+}
